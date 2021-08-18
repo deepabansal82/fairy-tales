@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [bhaiya doc](README.md)
 * [Introduction](introduction.md)
 * [Biodata](biodata.md)
 
